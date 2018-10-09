@@ -1,3 +1,4 @@
-# NourFahmy.github.io
+# Hi, I'm Nour!
 
-hellooooo
+I'm passionate about solving social problems with data science and <3.
+
